@@ -1,0 +1,214 @@
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\ApplicationInsights.config
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\csc.exe
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\csc.rsp
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\csi.exe
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\csi.rsp
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\vbc.exe
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\WebApplication.dll.config
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Antlr3.Runtime.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\EntityFramework.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Newtonsoft.Json.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Owin.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Cors.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Http.Cors.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Http.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Http.Owin.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Optimization.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Razor.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.WebPages.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\WebGrease.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Http.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Http.Cors.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Newtonsoft.Json.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Optimization.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Razor.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.WebPages.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\EntityFramework.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\System.Web.Http.Owin.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\chrisine\Documents\PROJECTS\preventia task\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\ApplicationInsights.config
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\csc.exe
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\csc.exe.config
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\csc.rsp
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\csi.exe
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\csi.rsp
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\vbc.exe
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\vbc.exe.config
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\vbc.rsp
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\WebApplication.dll.config
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\WebApplication.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\WebApplication.pdb
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Antlr3.Runtime.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\EntityFramework.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Newtonsoft.Json.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Owin.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Cors.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Helpers.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Http.Cors.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Http.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Http.Owin.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Mvc.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Optimization.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Razor.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.WebPages.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\WebGrease.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Http.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Http.Cors.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Newtonsoft.Json.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Helpers.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Mvc.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Optimization.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Razor.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.WebPages.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\EntityFramework.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\System.Web.Http.Owin.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\chrisine\Documents\PROJECTS\SocialPlatform-APIs\WebApplication\obj\Debug\WebApplication.pdb
