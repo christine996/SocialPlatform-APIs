@@ -216,6 +216,12 @@ namespace WebApplication.Controllers
             {
                 try
                 {
+                    var likes = context.Likes.Where(l => l.PostId == model.Id);
+                    context.Likes.RemoveRange(likes);
+
+                    var comments = context.Comments.Where(c => c.PostId == model.Id);
+                    context.Comments.RemoveRange(comments);
+
                     context.Posts.Remove(context.Posts.First(c => c.Id == model.Id));
                     context.SaveChanges();
 
